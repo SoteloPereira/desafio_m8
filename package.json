@@ -1,0 +1,17 @@
+{
+  "name": "desafio8",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node app.js",
+    "test": "jest --coverage --forceExit"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "jest": "^29.7.0",
+    "supertest": "^7.1.0"
+  }
+}
