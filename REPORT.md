@@ -1,5 +1,5 @@
 # Desafio 8
-## Requerimientos :books:
+## Requerimientos & Desarrollo :books:
 * Gestión del Repositorio Git.
     *  Código del proyecto (subido al repositorio de GitHub).
     
@@ -12,7 +12,14 @@
     * Capturas de pantalla del pipeline configurado en Jenkins y los reportes
     generados.
 
-    R: [Pipeline](https://github.com/SoteloPereira/desafio_m8/blob/main/public/img/jenkins%20pipeline.jpg "Resultado Pipeline")
+    R: 
+
+    [Pipeline](https://github.com/SoteloPereira/desafio_m8/blob/main/public/img/jenkins%20pipeline.jpg "Resultado Pipeline")
+
+    [Panel](https://github.com/SoteloPereira/desafio_m8/blob/main/public/img/Panel%20de%20Control%20Jenkins.jpg "Panel")
+    
+    [Task Status](https://github.com/SoteloPereira/desafio_m8/blob/main/public/img/Task%20Status.jpg "Task Status")
+
 
 
 * Reporte y Documentación.
@@ -61,18 +68,20 @@
 
         R: 
 
-    [Valor origina GET](https://github.com/SoteloPereira/desafio_m8/blob/main/public/img/get%20-%20valor%20origina.jpg)
+        [Valor origina GET](https://github.com/SoteloPereira/desafio_m8/blob/main/public/img/get%20-%20valor%20origina.jpg)
 
-    [Actualizando Valor PUT](https://github.com/SoteloPereira/desafio_m8/blob/main/public/img/put%20-%20actualizar%20valor.jpg)
+        [Actualizando Valor PUT](https://github.com/SoteloPereira/desafio_m8/blob/main/public/img/put%20-%20actualizar%20valor.jpg)
 
-    [Valor actualizado GET](https://github.com/SoteloPereira/desafio_m8/blob/main/public/img/get%20-%20valor%20actualizado.jpg)
+        [Valor actualizado GET](https://github.com/SoteloPereira/desafio_m8/blob/main/public/img/get%20-%20valor%20actualizado.jpg)
+
+
 
     * package.json: Configuración del proyecto Node.js con dependencias
     necesarias.
 
-    R: 
+        R: 
 
-    `package.json`
+        `package.json`
 
     ```
     {
@@ -97,9 +106,9 @@
 
     * Dockerfile: Archivo para contenerizar la API.
 
-    R: 
+        R: 
 
-     `Dockerfile`
+        `Dockerfile`
 
     ```
     # Imagen base de Node.js 
